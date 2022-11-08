@@ -2,3 +2,9 @@ Comandos do Git:
 Para clonar um link do GitHub = git clone <link>
 
 Para verificar o statut = git status
+
+Para adicionar uma nova pasta no git = git add .
+
+Para adicionar um comentário no commit = git commit -m "conteúdo"
+
+ Para enviar pastas da minha máquina para o GitHub = git push origin main
