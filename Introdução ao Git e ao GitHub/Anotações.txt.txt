@@ -1,0 +1,4 @@
+Comandos do Git: 
+Para clonar um link do GitHub = git clone <link>
+
+Para verificar o statut = git status
